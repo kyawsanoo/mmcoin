@@ -1,7 +1,7 @@
 # mmcoin
 A sample flutter dapp that interact with a solidity smart contract deployed on ethereum TestNet using web3dart package. 
 
-# app ui 
+## app ui 
 The app use sample ui to show balance of MMCoin, deposit and withdraw in interaction of the smart contract.
 
 ## smart contract info
